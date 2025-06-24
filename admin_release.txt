@@ -23,7 +23,4 @@ db:f8:3c:1e:c3:89
 
 aa:6a:b4:6b:bb:0d
 ============================
-mad:6a:b4:6b:bb:0d
-outra vps
-6a:b4:6b:bb:0d
-93mad:6a:b4:6b:bb:0d
+00:16:3c:6e:4e:d4
